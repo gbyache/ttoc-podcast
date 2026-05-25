@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,48 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Why Every Brand Looks the Same Now (The AI Design Crisis)</title>
+      <description>Every startup logo looks identical. Every brand refresh feels familiar. And AI is making it worse.
+
+In this episode of Threads of Culture, we explore the alarming trend of visual sameness sweeping across industries as companies increasingly rely on AI design tools trained on the same datasets, optimizing for the same aesthetics, and producing eerily similar outputs. From fintech logos to SaaS landing pages, we're witnessing a homogenization of visual identity that threatens to erode what makes brands distinctive.
+
+We unpack how AI tools like Midjourney, DALL-E, and automated branding platforms are collapsing the range of creative output into a narrow band of "safe" design choices. We examine what this means for consumer trust, brand differentiation, and the future of the design profession. We also look at historical parallels — moments when new technology initially flattened creative diversity before culture course-corrected — and ask whether the same rebound is possible in the age of generative AI.
+
+Topics covered in this episode:
+- Why AI design tools converge on the same visual language
+- The business cost of looking like everyone else
+- How design monoculture erodes brand equity over time
+- What designers and creative directors can do to fight back
+- Historical parallels from desktop publishing and stock photography
+- The role of human taste and cultural specificity in standing out
+
+Whether you're a designer, brand strategist, marketer, or just someone who's noticed that everything looks the same lately, this episode will change how you see the visual world around you.
+
+Subscribe to Threads of Culture for weekly deep dives into design, branding, and the cultural forces shaping our world.</description>
+      <guid isPermaLink="false">ttoc-episode-6</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP006_Why-Every-Brand-Looks-The-Same-Now-The-Ai-Design-Crisis_mixed.mp3" length="9037992" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>564</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Every startup logo looks identical. Every brand refresh feels familiar. And AI is making it worse.
+
+In this episode of Threads of Culture, we explore the alarming trend of visual sameness sweeping across industries as companies increasingly rely on AI design tools trained on the same datasets, optimizing for the same aesthetics, and producing eerily similar outputs. From fintech logos to SaaS landing pages, we're witnessing a homogenization of visual identity that threatens to erode what makes brands distinctive.
+
+We unpack how AI tools like Midjourney, DALL-E, and automated branding platforms are collapsing the range of creative output into a narrow band of "safe" design choices. We examine what this means for consumer trust, brand differentiation, and the future of the design profession. We also look at historical parallels — moments when new technology initially flattened creative diversity before culture course-corrected — and ask whether the same rebound is possible in the age of generative AI.
+
+Topics covered in this episode:
+- Why AI design tools converge on the same visual language
+- The business cost of looking like everyone else
+- How design monoculture erodes brand equity over time
+- What designers and creative directors can do to fight back
+- Historical parallels from desktop publishing and stock photography
+- The role of human taste and cultural specificity in standing out
+
+Whether you're a designer, brand strategist, marketer, or just someone who's noticed that everything looks the same lately, this episode will change how you see the visual world around you.
+
+Subscribe to Threads of Culture for weekly deep dives into design, branding, and the cultural forces shaping our world.</itunes:summary>
+    </item>
     <item>
       <title>The Death of the Subculture: When Aesthetics Replace Identity</title>
       <description>Subcultures used to cost you something. Now they cost you nothing — and that's exactly the problem.
