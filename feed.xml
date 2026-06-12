@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,36 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>How Figma Made Every Website Look the Same</title>
+      <description>Sixteen landing pages. Sixteen countries. Sixteen different products. And they all look identical. How did we get here?
+
+In this episode of Threads of Culture, we trace how Figma democratized design — giving everyone access to professional-grade tools, component libraries, and community templates — only to inadvertently flatten the entire visual landscape of the internet. What happens when the barriers to design are removed, but so is the friction that once forced originality?
+
+We explore how shared design systems, plug-and-play UI kits, and the culture of cloning templates turned the web into a sea of gradient hero sections, rounded icon cards, and highlighted middle-tier pricing tables. We examine the tension between accessibility and homogeneity, and ask whether the democratization of design tools has quietly made creative risk obsolete.
+
+From the rise of Figma's collaborative ecosystem to the unintended consequences of making "good enough" design effortless, this episode unpacks what we've gained — and what we may have lost — in the pursuit of frictionless creation.
+
+If you care about design, branding, or the cultural forces shaping the digital world, this conversation is for you.
+
+Subscribe to Threads of Culture and hit the bell so you never miss an episode exploring the ideas reshaping how we build, brand, and communicate.</description>
+      <guid isPermaLink="false">ttoc-episode-14</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP014_How-Figma-Made-Every-Website-Look-The-Same_mixed.mp3" length="9013332" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Jun 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>563</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sixteen landing pages. Sixteen countries. Sixteen different products. And they all look identical. How did we get here?
+
+In this episode of Threads of Culture, we trace how Figma democratized design — giving everyone access to professional-grade tools, component libraries, and community templates — only to inadvertently flatten the entire visual landscape of the internet. What happens when the barriers to design are removed, but so is the friction that once forced originality?
+
+We explore how shared design systems, plug-and-play UI kits, and the culture of cloning templates turned the web into a sea of gradient hero sections, rounded icon cards, and highlighted middle-tier pricing tables. We examine the tension between accessibility and homogeneity, and ask whether the democratization of design tools has quietly made creative risk obsolete.
+
+From the rise of Figma's collaborative ecosystem to the unintended consequences of making "good enough" design effortless, this episode unpacks what we've gained — and what we may have lost — in the pursuit of frictionless creation.
+
+If you care about design, branding, or the cultural forces shaping the digital world, this conversation is for you.
+
+Subscribe to Threads of Culture and hit the bell so you never miss an episode exploring the ideas reshaping how we build, brand, and communicate.</itunes:summary>
+    </item>
     <item>
       <title>The Death of the Aesthetic: When the Internet Ran Out of Looks</title>
       <description>A teenager's ugly GeoCities page from 1998 might have been the last truly original aesthetic act the internet ever produced. How did we get from that chaotic, unfiltered creativity to an endless conveyor belt of recycled aesthetics — cottagecore, dark academia, clean girl, mob wife — each one arriving faster and dying sooner than the last?
@@ -32,9 +62,9 @@ This is a deep dive into design, internet culture, identity, and the strange dea
 
 New episodes drop weekly. Subscribe to Threads of Culture so you never miss an exploration of the forces shaping how we see, build, and brand the world around us.</description>
       <guid isPermaLink="false">ttoc-episode-13</guid>
-      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP013_The-Death-Of-The-Aesthetic-When-The-Internet-Ran-Out-Of-Look_mixed.mp3" length="9137467" type="audio/mpeg"/>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP013_The-Death-Of-The-Aesthetic-When-The-Internet-Ran-Out-Of-Look_mixed.mp3" length="9600983" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 17:00:00 +0000</pubDate>
-      <itunes:duration>571</itunes:duration>
+      <itunes:duration>599</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>A teenager's ugly GeoCities page from 1998 might have been the last truly original aesthetic act the internet ever produced. How did we get from that chaotic, unfiltered creativity to an endless conveyor belt of recycled aesthetics — cottagecore, dark academia, clean girl, mob wife — each one arriving faster and dying sooner than the last?
 
