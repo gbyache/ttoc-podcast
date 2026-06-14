@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,36 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Why Every Brand Looks the Same Now (&amp; Why It Needs to Stop)</title>
+      <description>Every startup, every DTC brand, every app — they all look like they were designed by the same person. And that's a problem.
+
+In this episode of Threads of Culture, we explore how an entire generation of companies abandoned distinctiveness in favor of safe, sanitized "good taste." From the rise of geometric sans-serif logos to the muted pastel palettes that took over everything from mattress companies to financial planning firms, we trace the exact cultural and economic forces that flattened brand identity into a single aesthetic.
+
+But this isn't just a rant about boring logos. We dig into why this happened — the role of venture capital in homogenizing visual identity, the design tool pipelines that reward conformity, and the cultural anxiety around standing out in an algorithmically driven marketplace. We also look at the brands that are pushing back, embracing weird, maximalist, and intentionally imperfect design to cut through the noise.
+
+If you're a designer, a brand strategist, a founder, or just someone who's noticed that your toothpaste brand and your banking app have the same vibe — this one's for you.
+
+Threads of Culture unpacks the evolving landscape of design, branding, and the cultural forces shaping the global stage. New episodes drop regularly.
+
+Subscribe and hit the bell so you never miss an episode.</description>
+      <guid isPermaLink="false">ttoc-episode-15</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP015_Why-Every-Brand-Looks-The-Same-Now-Why-It-Needs-To-Stop_mixed.mp3" length="9935350" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>620</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Every startup, every DTC brand, every app — they all look like they were designed by the same person. And that's a problem.
+
+In this episode of Threads of Culture, we explore how an entire generation of companies abandoned distinctiveness in favor of safe, sanitized "good taste." From the rise of geometric sans-serif logos to the muted pastel palettes that took over everything from mattress companies to financial planning firms, we trace the exact cultural and economic forces that flattened brand identity into a single aesthetic.
+
+But this isn't just a rant about boring logos. We dig into why this happened — the role of venture capital in homogenizing visual identity, the design tool pipelines that reward conformity, and the cultural anxiety around standing out in an algorithmically driven marketplace. We also look at the brands that are pushing back, embracing weird, maximalist, and intentionally imperfect design to cut through the noise.
+
+If you're a designer, a brand strategist, a founder, or just someone who's noticed that your toothpaste brand and your banking app have the same vibe — this one's for you.
+
+Threads of Culture unpacks the evolving landscape of design, branding, and the cultural forces shaping the global stage. New episodes drop regularly.
+
+Subscribe and hit the bell so you never miss an episode.</itunes:summary>
+    </item>
     <item>
       <title>How Figma Made Every Website Look the Same</title>
       <description>Sixteen landing pages. Sixteen countries. Sixteen different products. And they all look identical. How did we get here?
