@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 20:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,28 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Why Everything Is Shaped Like a Pill Now</title>
+      <description>Every sharp corner in your life is disappearing — and it's not an accident.
+
+In 2013, Apple quietly rounded the corners of every iOS icon. It seemed cosmetic. Trivial. But it was the first move in a slow, deliberate campaign to sand down every edge in your world — from your phone to your speaker to your water bottle to your office building. This episode of Threads of Culture traces the rise of soft, rounded, pill-shaped design across products, architecture, branding, and culture. We explore why corporations are obsessed with smoothness, what rounded forms signal to our brains, and how this design philosophy connects to deeper shifts in how companies want us to feel — safe, passive, and frictionless.
+
+We unpack the psychology behind curves versus corners, the influence of Apple's design language on an entire generation of products, the relationship between softened aesthetics and corporate control, and what we lose when every surface in our environment is engineered to feel harmless. From Bauhaus to blob architecture, from skeuomorphism to neomorphism, this is the untold story of how shape became strategy.
+
+New episodes explore the hidden forces behind design, branding, and culture. Subscribe to Threads of Culture so you never miss one.</description>
+      <guid isPermaLink="false">ttoc-episode-16</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP016_Why-Everything-Is-Shaped-Like-A-Pill-Now_mixed.mp3" length="8812712" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>550</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Every sharp corner in your life is disappearing — and it's not an accident.
+
+In 2013, Apple quietly rounded the corners of every iOS icon. It seemed cosmetic. Trivial. But it was the first move in a slow, deliberate campaign to sand down every edge in your world — from your phone to your speaker to your water bottle to your office building. This episode of Threads of Culture traces the rise of soft, rounded, pill-shaped design across products, architecture, branding, and culture. We explore why corporations are obsessed with smoothness, what rounded forms signal to our brains, and how this design philosophy connects to deeper shifts in how companies want us to feel — safe, passive, and frictionless.
+
+We unpack the psychology behind curves versus corners, the influence of Apple's design language on an entire generation of products, the relationship between softened aesthetics and corporate control, and what we lose when every surface in our environment is engineered to feel harmless. From Bauhaus to blob architecture, from skeuomorphism to neomorphism, this is the untold story of how shape became strategy.
+
+New episodes explore the hidden forces behind design, branding, and culture. Subscribe to Threads of Culture so you never miss one.</itunes:summary>
+    </item>
     <item>
       <title>Why Every Brand Looks the Same Now (&amp; Why It Needs to Stop)</title>
       <description>Every startup, every DTC brand, every app — they all look like they were designed by the same person. And that's a problem.
