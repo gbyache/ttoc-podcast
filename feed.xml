@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -63,6 +63,36 @@ Topics covered:
 Threads of Culture is a series exploring design, branding, and the cultural forces shaping the global creative landscape.
 
 Subscribe and hit the bell so you never miss an episode. New videos drop regularly.</itunes:summary>
+    </item>
+    <item>
+      <title>Frictionmaxxing: Why Design Now Wants to Waste Your Time</title>
+      <description>What if the biggest design movement of the decade isn't about making things easier—but deliberately harder?
+
+In this episode of Threads of Culture, we unpack frictionmaxxing, a cultural and design philosophy that pushes back against the seamless, optimized, algorithmically smoothed-out life we've been sold for the past decade. It started with a simple New Year's resolution from parenting columnist Kathryn Jezer-Morton, published in The Cut in January 2026—and it quickly became something much bigger.
+
+We explore how frictionmaxxing challenges the foundational assumptions of UX design, convenience culture, and the attention economy. Why are people voluntarily choosing the slower, harder path? What does it mean for brands, products, and the tech industry when consumers start rejecting frictionless experiences? And is this a genuine cultural shift or just another aesthetic trend destined to be co-opted and commodified?
+
+From analog resurgences and intentionally clunky interfaces to the philosophical roots of resistance in design thinking, this episode connects the dots between consumer behavior, branding strategy, and the deeper human need for effort, presence, and meaning.
+
+Whether you're a designer, a marketer, a founder, or just someone who's tired of having every micro-decision optimized away, this one's for you.
+
+New episodes drop weekly. Subscribe to Threads of Culture so you never miss an exploration of the ideas shaping design, branding, and the global cultural landscape.</description>
+      <guid isPermaLink="false">ttoc-episode-23</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP023_Frictionmaxxing-Why-Design-Now-Wants-To-Waste-Your-Time_mixed.mp3" length="9027542" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>564</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>What if the biggest design movement of the decade isn't about making things easier—but deliberately harder?
+
+In this episode of Threads of Culture, we unpack frictionmaxxing, a cultural and design philosophy that pushes back against the seamless, optimized, algorithmically smoothed-out life we've been sold for the past decade. It started with a simple New Year's resolution from parenting columnist Kathryn Jezer-Morton, published in The Cut in January 2026—and it quickly became something much bigger.
+
+We explore how frictionmaxxing challenges the foundational assumptions of UX design, convenience culture, and the attention economy. Why are people voluntarily choosing the slower, harder path? What does it mean for brands, products, and the tech industry when consumers start rejecting frictionless experiences? And is this a genuine cultural shift or just another aesthetic trend destined to be co-opted and commodified?
+
+From analog resurgences and intentionally clunky interfaces to the philosophical roots of resistance in design thinking, this episode connects the dots between consumer behavior, branding strategy, and the deeper human need for effort, presence, and meaning.
+
+Whether you're a designer, a marketer, a founder, or just someone who's tired of having every micro-decision optimized away, this one's for you.
+
+New episodes drop weekly. Subscribe to Threads of Culture so you never miss an exploration of the ideas shaping design, branding, and the global cultural landscape.</itunes:summary>
     </item>
     <item>
       <title>Why Brands Now Hire "Cultural Strategists" Instead of Designers</title>
