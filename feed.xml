@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 23:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:00:00 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,32 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Why Every App Talks to You Like a Therapist Now</title>
+      <description>Your banking app sounds like your meditation app which sounds like your period tracker. That's not an accident — it's a carefully engineered strategy.
+
+This video explores the strange convergence of emotional design language across apps that have nothing in common. From push notifications that mimic a caring friend to pastel color palettes borrowed from wellness culture, we unpack how tech companies weaponize the aesthetics of therapy to build trust, bypass skepticism, and keep you engaged. We trace the design lineage from early Silicon Valley minimalism to today's soft-spoken UX copy, examine what happens when financial products dress themselves in the language of mental health, and ask whether this blurring of boundaries is merely annoying — or genuinely harmful.
+
+Along the way, we look at the psychology behind why therapeutic framing disarms users, how copywriters are trained to write in a "warm" voice regardless of what the product actually does, and what it means when an entire digital ecosystem starts sounding like it went to the same group therapy session.
+
+If you've ever felt vaguely manipulated by an app asking how your day is going before suggesting you spend money, this one's for you.
+
+Subscribe for weekly essays on design, technology, and the invisible systems shaping how we think and feel.</description>
+      <guid isPermaLink="false">ttoc-episode-37</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP037_Why-Every-App-Talks-To-You-Like-A-Therapist-Now_mixed.mp3" length="8788889" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>549</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Your banking app sounds like your meditation app which sounds like your period tracker. That's not an accident — it's a carefully engineered strategy.
+
+This video explores the strange convergence of emotional design language across apps that have nothing in common. From push notifications that mimic a caring friend to pastel color palettes borrowed from wellness culture, we unpack how tech companies weaponize the aesthetics of therapy to build trust, bypass skepticism, and keep you engaged. We trace the design lineage from early Silicon Valley minimalism to today's soft-spoken UX copy, examine what happens when financial products dress themselves in the language of mental health, and ask whether this blurring of boundaries is merely annoying — or genuinely harmful.
+
+Along the way, we look at the psychology behind why therapeutic framing disarms users, how copywriters are trained to write in a "warm" voice regardless of what the product actually does, and what it means when an entire digital ecosystem starts sounding like it went to the same group therapy session.
+
+If you've ever felt vaguely manipulated by an app asking how your day is going before suggesting you spend money, this one's for you.
+
+Subscribe for weekly essays on design, technology, and the invisible systems shaping how we think and feel.</itunes:summary>
+    </item>
     <item>
       <title>Why Gen Alpha Is Obsessed With Surveillance Design</title>
       <description>The first design Gen Alpha ever saw wasn't a mobile or a picture book — it was a surveillance feed.
