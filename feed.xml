@@ -13,7 +13,7 @@
       <link>https://gbyache.github.io/ttoc-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:33:23 +0000</lastBuildDate>
     <itunes:author>The Threads of Culture</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://gbyache.github.io/ttoc-podcast/cover.jpg"/>
@@ -22,6 +22,36 @@
       <itunes:name>The Threads of Culture</itunes:name>
       <itunes:email>lawansonmichael@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>How Platforms Turned Your Attention Into Architecture</title>
+      <description>The most important design of this decade was never meant to be seen — and you're interacting with it right now.
+
+This video essay explores how cognitive science became the invisible blueprint behind every major platform you use. From infinite scroll to notification timing, the interfaces shaping billions of hours of human behavior weren't created by traditional designers — they were engineered by teams who understand how your brain allocates attention, forms habits, and surrenders agency.
+
+We trace the lineage from early persuasive technology labs to the feed algorithms of today, examining how design quietly shifted from something you look at to something that looks at you. Along the way, we unpack the architectural logic behind engagement loops, variable reward schedules, and the deliberate erosion of stopping cues — mechanisms so effective they outpace every building, brand, and campaign ever made in shaping human behavior.
+
+This isn't a story about evil tech companies. It's a deeper question about what design becomes when its primary material is cognition itself, and what it means when the most consequential design decisions on earth are made by people who don't call themselves designers, inside companies that don't sell design, for users who will never see the blueprint.
+
+Whether you study design, work in tech, or simply use a phone, this is the invisible infrastructure governing your daily life.
+
+Subscribe for more essays on design, technology, and the hidden systems shaping culture.</description>
+      <guid isPermaLink="false">ttoc-episode-39</guid>
+      <enclosure url="https://gbyache.github.io/ttoc-podcast/episodes/TTOC_EP039_How-Platforms-Turned-Your-Attention-Into-Architecture_mixed.mp3" length="7686731" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:00:00 +0000</pubDate>
+      <itunes:duration>480</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The most important design of this decade was never meant to be seen — and you're interacting with it right now.
+
+This video essay explores how cognitive science became the invisible blueprint behind every major platform you use. From infinite scroll to notification timing, the interfaces shaping billions of hours of human behavior weren't created by traditional designers — they were engineered by teams who understand how your brain allocates attention, forms habits, and surrenders agency.
+
+We trace the lineage from early persuasive technology labs to the feed algorithms of today, examining how design quietly shifted from something you look at to something that looks at you. Along the way, we unpack the architectural logic behind engagement loops, variable reward schedules, and the deliberate erosion of stopping cues — mechanisms so effective they outpace every building, brand, and campaign ever made in shaping human behavior.
+
+This isn't a story about evil tech companies. It's a deeper question about what design becomes when its primary material is cognition itself, and what it means when the most consequential design decisions on earth are made by people who don't call themselves designers, inside companies that don't sell design, for users who will never see the blueprint.
+
+Whether you study design, work in tech, or simply use a phone, this is the invisible infrastructure governing your daily life.
+
+Subscribe for more essays on design, technology, and the hidden systems shaping culture.</itunes:summary>
+    </item>
     <item>
       <title>Kellogg's Cereal Toys Are Back — Here's What They're Really Selling</title>
       <description>Kellogg's just brought back cereal box toys for the first time in over a decade — but what they're actually selling isn't plastic figurines.
